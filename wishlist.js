@@ -1,0 +1,2 @@
+import{w as e,c as a,r as s,p as o,h as r,m as l,a as n,f as i}from"./assets/modal-xm21UlgB.js";import"./assets/vendor-B1JxXYlG.js";JSON.parse(localStorage.getItem("wishlist"))&&(e.textContent=JSON.parse(localStorage.getItem("wishlist")).length);JSON.parse(localStorage.getItem("cart"))&&(a.textContent=JSON.parse(localStorage.getItem("cart")).length);s();o.addEventListener("click",r);l.addEventListener("click",n);i.addEventListener("submit",t=>{t.preventDefault(),window.location.href="index.html"});
+//# sourceMappingURL=wishlist.js.map
